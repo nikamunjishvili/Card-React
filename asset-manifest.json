@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Card-React/static/css/main.b1f2b32e.css",
+    "main.js": "/Card-React/static/js/main.4aa10a45.js",
+    "static/media/equilibrium.jpg": "/Card-React/static/media/equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/Card-React/index.html",
+    "static/media/view.svg": "/Card-React/static/media/view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/clock.svg": "/Card-React/static/media/clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon.svg": "/Card-React/static/media/icon.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.b1f2b32e.css.map": "/Card-React/static/css/main.b1f2b32e.css.map",
+    "main.4aa10a45.js.map": "/Card-React/static/js/main.4aa10a45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f2b32e.css",
+    "static/js/main.4aa10a45.js"
+  ]
+}
